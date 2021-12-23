@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WPBolduan
-- 👀 I’m interested in C/C++ and Python programming
+- 👀 I’m interested in C/C++ and Python programming and interface Python to Salesforce to automate processes
 - 🌱 I’m currently learning modern/advanced C++ programming
 
 <!---
