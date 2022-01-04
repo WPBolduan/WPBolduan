@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WPBolduan
-- 👀 I’m interested in C/C++ and Python programming and interface Python to Salesforce to automate processes
-- 🌱 I’m currently learning modern/advanced C++ programming
+- 👀 I’m interested in Python and C++ programming.
+- 🌱 I’m currently focussing on modern/advanced C++ programming
 
 <!---
 WPBolduan/WPBolduan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
